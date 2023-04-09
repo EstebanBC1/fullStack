@@ -1,4 +1,37 @@
-#month-block{
-    background-color: green;
-    padding: 2em;
+/* #menubar{
+    background-color: none;
+    border: 2px black solid;
+    padding: 1em;
+} */
+#topbar{
+    background-color: #504A4A;
 }
+img, #logo{
+    background-color: #fff;
+    padding: 1em;
+    border-radius: 15px;
+    height: 113px;
+    width: 400px;
+    margin: 1em 0 1em .5em;
+}
+button{
+    border-radius: 20px;
+    border: none;
+    font-family: Comfortaa;
+    font-weight: bold;
+}
+#topbar-covid{
+
+    background: #FFFFFF;
+}
+
+#topbar-illnes{
+
+    background-color: #fff;
+}
+
+/* .menu_bar_links{ 
+    margin: 1em;
+    text-decoration: none;
+    font-size: 15px;
+} */

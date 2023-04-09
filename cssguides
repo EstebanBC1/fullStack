@@ -1,0 +1,138 @@
+/* topbar */
+
+position: absolute;
+width: 1440px;
+height: 158px;
+left: 0px;
+top: -2px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 1440px;
+height: 158px;
+left: 0px;
+top: -2px;
+
+background: #504A4A;
+
+
+/* Logo Selection */
+
+position: absolute;
+width: 482px;
+height: 113px;
+left: 12px;
+top: 19px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 482px;
+height: 113px;
+left: 12px;
+top: 19px;
+
+background: #FFFFFF;
+border-radius: 20px;
+
+
+/* image 1 */
+
+position: absolute;
+width: 413px;
+height: 93px;
+left: 31px;
+top: 29px;
+
+background: url(image.png);
+
+
+/* Covid-19 */
+
+position: absolute;
+width: 333px;
+height: 42px;
+left: 1092px;
+top: 29px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 333px;
+height: 41px;
+left: 1092px;
+top: 30px;
+
+background: #FFFFFF;
+border-radius: 20px;
+
+
+/* Covid-19 Paid Sick Leave */
+
+position: absolute;
+width: 333px;
+height: 42px;
+left: 1092px;
+top: 29px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 28px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Injury and illness */
+
+position: absolute;
+width: 506px;
+height: 42px;
+left: 919px;
+top: 90px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 506px;
+height: 41px;
+left: 919px;
+top: 91px;
+
+background: #FFFFFF;
+border-radius: 20px;
+
+
+/* Injury and Illness Prevention Program */
+
+position: absolute;
+width: 494px;
+height: 42px;
+left: 931px;
+top: 90px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 28px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+

@@ -10,7 +10,7 @@
  
  #logo{
     border-radius: 15px;
-
+    margin-left: 1rem;
  }
 .topbar{
     background-color: #504A4A;
@@ -22,12 +22,12 @@ button{
 }
 #topbar-covid{
     width: 18%;
-    margin-left: 82%;
+    margin-left: 81%;
     background: #FFFFFF;
 }
 
 #topbar-illness{
-    width: 21%;
-    margin-left: 79%;
+    width: 26%;
+    margin-left: 73%;
     background-color: #fff;
 }
